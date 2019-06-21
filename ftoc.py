@@ -5,7 +5,7 @@ import sys
 def converter(num):
 	try:
 		floater = float(num)
-		return str((floater - 32) *5 /9) + "ºC"
+		return str((floater - 32) * 5/9) + "ºC"
 	except ValueError:
 		return "Unknown value type. Bailing out 🚣🏽‍♂️"
 	
