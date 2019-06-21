@@ -17,8 +17,8 @@ alias ctof='python3 ~/converter/ctof.py'
 NOTE: In the alias, do not add a space after the last character. The scripts will not work if you do. (```ftoc``` 👍 ```ftoc ``` 👎🏽)
 
 In the future, I'd like to add:
-	* More conversions
-	* Maybe converge all conversions into one file?
-	* Automagically do the bash profile stuff (or get rid of it completely, who knows)
+  - More conversions
+  - Maybe converge all conversions into one file?
+  - Automagically do the bash profile stuff (or get rid of it completely, who knows)
 
 That's pretty much it. Happy converting!
